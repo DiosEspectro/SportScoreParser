@@ -114,7 +114,7 @@ public class SportScoreParser {
 
     static void saveMatchesToXML(TournamentEnum tour, String[] tourInfo, String[][] matches){
         String fileName = SportScoreParser.getSportNameByTour(tour).toString().toLowerCase() + "_" + tour.toString().toLowerCase() + ".xml";
-        String filePath = "src/" + fileName;
+        String filePath = "src/xml/" + fileName;
 
         org.w3c.dom.Element elmnt;
         org.w3c.dom.Element matchesroot;
@@ -228,7 +228,7 @@ public class SportScoreParser {
     static SportNameEnum getSportNameByTour(TournamentEnum tournament){
         return switch (tournament) {
             case RPL, CHAMPIONSLEAGUE, WORLDCUP -> SportNameEnum.FOOTBALL;
-            case KHL -> SportNameEnum.HOCKEY;
+            case KHL, WHC -> SportNameEnum.HOCKEY;
         };
     }
 
@@ -238,6 +238,7 @@ public class SportScoreParser {
             case CHAMPIONSLEAGUE -> "_ucl";
             case WORLDCUP -> "_worldcup";
             case KHL -> "_superleague";
+            case WHC -> "_whc";
         };
     }
 
