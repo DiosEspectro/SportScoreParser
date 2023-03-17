@@ -148,15 +148,16 @@ public class SportScoreParser {
 
             // Далее добавляем каждый матч в отдельную группу
             int matchesCount = matches.length;
-            for(int i=0;i<matchesCount;i++){
-                if(matches[i][5].equals("0") || matches[i][6].equals("0")) continue; // Если хотя бы одна команда не указана, то не записываем
+            for (String[] strings : matches) {
+                if (strings[5].equals("0") || strings[6].equals("0"))
+                    continue; // Если хотя бы одна команда не указана, то не записываем
 
                 // Создаём матч
                 match = doc.createElement("match");
                 matchesroot.appendChild(match);
 
                 // Далее добавляем все параметры матча вовнутрь матча
-                for(int j=0;j<19;j++) {
+                for (int j = 0; j < 19; j++) {
                     String tagName = switch (j) {
                         case 0 -> "type";
                         case 1 -> "id";
@@ -180,9 +181,9 @@ public class SportScoreParser {
                         default -> "";
                     };
 
-                    if (matches[i][j] != null) {
+                    if (strings[j] != null) {
                         elmnt = doc.createElement(tagName);
-                        elmnt.appendChild(doc.createTextNode(matches[i][j])); // ID
+                        elmnt.appendChild(doc.createTextNode(strings[j])); // ID
                         match.appendChild(elmnt);
                     }
                 }
