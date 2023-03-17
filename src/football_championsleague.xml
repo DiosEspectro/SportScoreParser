@@ -1,0 +1,3977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tournament>
+    <tourid>football-4993</tourid>
+    <touridshort>4993</touridshort>
+    <tourname>Лига чемпионов</tourname>
+    <matches>
+        <match>
+            <type>match</type>
+            <id>football-1034371</id>
+            <round>preliminary/27443</round>
+            <tour>1</tour>
+            <month>2022_06</month>
+            <team1id>231317</team1id>
+            <team2id>231315</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034371/</link>
+            <group>Предварительный раунд - 1/2 финала</group>
+            <tourstr>1</tourstr>
+            <date>2022-06-21</date>
+            <time>16:00</time>
+            <team1>Ла Фиорита (Сан-Марино)</team1>
+            <team2>Интер Клуб Эскальдес (Андорра)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034369</id>
+            <round>preliminary/27443</round>
+            <tour>1</tour>
+            <month>2022_06</month>
+            <team1id>231313</team1id>
+            <team2id>231311</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034369/</link>
+            <group>Предварительный раунд - 1/2 финала</group>
+            <tourstr>1</tourstr>
+            <date>2022-06-21</date>
+            <time>22:30</time>
+            <team1>Левадия (Эстония)</team1>
+            <team2>Викингур Р (Исландия)</team2>
+            <score1>1</score1>
+            <score2>6</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034373</id>
+            <round>preliminary/27445</round>
+            <tour>1</tour>
+            <month>2022_06</month>
+            <team1id>231315</team1id>
+            <team2id>231311</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034373/</link>
+            <group>Предварительный раунд - Финал</group>
+            <tourstr>1</tourstr>
+            <date>2022-06-24</date>
+            <time>22:30</time>
+            <team1>Интер Клуб Эскальдес (Андорра)</team1>
+            <team2>Викингур Р (Исландия)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034375</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231327</team1id>
+            <team2id>231363</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034375/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>19:00</time>
+            <team1>Пюник (Армения)</team1>
+            <team2>ЧФР Клуж (Румыния)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034385</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231335</team1id>
+            <team2id>231311</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034385/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>20:00</time>
+            <team1>Мальмё (Швеция)</team1>
+            <team2>Викингур Р (Исландия)</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034379</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231349</team1id>
+            <team2id>231375</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034379/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>20:45</time>
+            <team1>Лудогорец (Болгария)</team1>
+            <team2>Сутьеска (Черногория)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034387</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231347</team1id>
+            <team2id>231367</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034387/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>21:00</time>
+            <team1>Балкани (Косово)</team1>
+            <team2>Жальгирис (Литва)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034393</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231333</team1id>
+            <team2id>231371</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034393/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>21:00</time>
+            <team1>Нью-Сейнтс (Уэльс)</team1>
+            <team2>Линфилд (Северная Ирландия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034397</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231323</team1id>
+            <team2id>231321</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034397/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>21:00</time>
+            <team1>Лех П (Польша)</team1>
+            <team2>Карабах (Азербайджан)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034395</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231355</team1id>
+            <team2id>231373</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034395/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>21:30</time>
+            <team1>Шэмрок Роверс (Ирландия)</team1>
+            <team2>Хайбернианс (Мальта)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034399</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231369</team1id>
+            <team2id>231361</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034399/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-05</date>
+            <time>21:45</time>
+            <team1>Шкупи (Северная Македония)</team1>
+            <team2>Линкольн (Гибралтар)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034383</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231337</team1id>
+            <team2id>231351</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034383/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>17:00</time>
+            <team1>Тобол (Казахстан)</team1>
+            <team2>Ференцварош (Венгрия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034389</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231345</team1id>
+            <team2id>231343</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034389/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>19:00</time>
+            <team1>ХИК (Финляндия)</team1>
+            <team2>Рижская футбольная школа (Латвия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034391</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231319</team1id>
+            <team2id>231331</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034391/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>19:00</time>
+            <team1>Будё-Глимт (Норвегия)</team1>
+            <team2>КИ Клаксвик (Фарерские острова)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034381</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231325</team1id>
+            <team2id>231357</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034381/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>20:30</time>
+            <team1>Дюделанж (Люксембург)</team1>
+            <team2>Тирана (Албания)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034401</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231341</team1id>
+            <team2id>231359</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034401/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>21:00</time>
+            <team1>Зриньски (Босния и Герцеговина)</team1>
+            <team2>Шериф (Молдавия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034377</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231339</team1id>
+            <team2id>231365</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034377/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>21:15</time>
+            <team1>Марибор (Словения)</team1>
+            <team2>Шахтёр С (Беларусь)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034403</id>
+            <round>preliminary/27447</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231353</team1id>
+            <team2id>231329</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034403/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-06</date>
+            <time>21:30</time>
+            <team1>Слован Бр (Словакия)</team1>
+            <team2>Динамо Бт (Грузия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034419</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231343</team1id>
+            <team2id>231345</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034419/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>18:30</time>
+            <team1>Рижская футбольная школа (Латвия)</team1>
+            <team2>ХИК (Финляндия)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+            <score1ext>4</score1ext>
+            <score2ext>5</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034417</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231367</team1id>
+            <team2id>231347</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034417/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>19:00</time>
+            <team1>Жальгирис (Литва)</team1>
+            <team2>Балкани (Косово)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034427</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231321</team1id>
+            <team2id>231323</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034427/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>19:00</time>
+            <team1>Карабах (Азербайджан)</team1>
+            <team2>Лех П (Польша)</team2>
+            <score1>5</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034429</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231361</team1id>
+            <team2id>231369</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034429/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>19:00</time>
+            <team1>Линкольн (Гибралтар)</team1>
+            <team2>Шкупи (Северная Македония)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034431</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231359</team1id>
+            <team2id>231341</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034431/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>20:00</time>
+            <team1>Шериф (Молдавия)</team1>
+            <team2>Зриньски (Босния и Герцеговина)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034411</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231357</team1id>
+            <team2id>231325</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034411/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>21:00</time>
+            <team1>Тирана (Албания)</team1>
+            <team2>Дюделанж (Люксембург)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034425</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231373</team1id>
+            <team2id>231355</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034425/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>21:00</time>
+            <team1>Хайбернианс (Мальта)</team1>
+            <team2>Шэмрок Роверс (Ирландия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034409</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231375</team1id>
+            <team2id>231349</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034409/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>22:00</time>
+            <team1>Сутьеска (Черногория)</team1>
+            <team2>Лудогорец (Болгария)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034415</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231311</team1id>
+            <team2id>231335</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034415/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-12</date>
+            <time>22:30</time>
+            <team1>Викингур Р (Исландия)</team1>
+            <team2>Мальмё (Швеция)</team2>
+            <score1>3</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034407</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231365</team1id>
+            <team2id>231339</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034407/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-13</date>
+            <time>20:00</time>
+            <team1>Шахтёр С (Беларусь)</team1>
+            <team2>Марибор (Словения)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034421</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231331</team1id>
+            <team2id>231319</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034421/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-13</date>
+            <time>20:00</time>
+            <team1>КИ Клаксвик (Фарерские острова)</team1>
+            <team2>Будё-Глимт (Норвегия)</team2>
+            <score1>3</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034433</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231329</team1id>
+            <team2id>231353</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034433/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-13</date>
+            <time>20:00</time>
+            <team1>Динамо Бт (Грузия)</team1>
+            <team2>Слован Бр (Словакия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034413</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231351</team1id>
+            <team2id>231337</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034413/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-13</date>
+            <time>21:00</time>
+            <team1>Ференцварош (Венгрия)</team1>
+            <team2>Тобол (Казахстан)</team2>
+            <score1>5</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034405</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231363</team1id>
+            <team2id>231327</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034405/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-13</date>
+            <time>21:30</time>
+            <team1>ЧФР Клуж (Румыния)</team1>
+            <team2>Пюник (Армения)</team2>
+            <score1>2</score1>
+            <score2>2</score2>
+            <score1ext>3</score1ext>
+            <score2ext>4</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034423</id>
+            <round>preliminary/27447</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231371</team1id>
+            <team2id>231333</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034423/</link>
+            <group>1-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-13</date>
+            <time>21:45</time>
+            <team1>Линфилд (Северная Ирландия)</team1>
+            <team2>Нью-Сейнтс (Уэльс)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034439</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231321</team1id>
+            <team2id>231381</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034439/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>19:00</time>
+            <team1>Карабах (Азербайджан)</team1>
+            <team2>Цюрих (Швейцария)</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034445</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231367</team1id>
+            <team2id>231335</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034445/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>19:00</time>
+            <team1>Жальгирис (Литва)</team1>
+            <team2>Мальмё (Швеция)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034453</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231327</team1id>
+            <team2id>231325</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034453/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>19:00</time>
+            <team1>Пюник (Армения)</team1>
+            <team2>Дюделанж (Люксембург)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034447</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231349</team1id>
+            <team2id>231355</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034447/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>20:45</time>
+            <team1>Лудогорец (Болгария)</team1>
+            <team2>Шэмрок Роверс (Ирландия)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034455</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231391</team1id>
+            <team2id>231393</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034455/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>20:45</time>
+            <team1>Мидтьюлланн (Дания)</team1>
+            <team2>АЕК Ларнака (Кипр)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034443</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231371</team1id>
+            <team2id>231319</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034443/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>21:45</time>
+            <team1>Линфилд (Северная Ирландия)</team1>
+            <team2>Будё-Глимт (Норвегия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034437</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231379</team1id>
+            <team2id>231369</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034437/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-19</date>
+            <time>22:00</time>
+            <team1>Динамо З (Хорватия)</team1>
+            <team2>Шкупи (Северная Македония)</team2>
+            <score1>2</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034441</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231345</team1id>
+            <team2id>231377</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034441/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-20</date>
+            <time>19:00</time>
+            <team1>ХИК (Финляндия)</team1>
+            <team2>Виктория Пльзень (Чехия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034451</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231385</team1id>
+            <team2id>231383</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034451/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-20</date>
+            <time>20:00</time>
+            <team1>Маккаби Х (Израиль)</team1>
+            <team2>Олимпиакос (Греция)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034435</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231351</team1id>
+            <team2id>231353</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034435/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-20</date>
+            <time>21:00</time>
+            <team1>Ференцварош (Венгрия)</team1>
+            <team2>Слован Бр (Словакия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034457</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231387</team1id>
+            <team2id>231389</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034457/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-20</date>
+            <time>21:00</time>
+            <team1>Динамо К (Украина)</team1>
+            <team2>Фенербахче (Турция)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034449</id>
+            <round>preliminary/27449</round>
+            <tour>1</tour>
+            <month>2022_07</month>
+            <team1id>231339</team1id>
+            <team2id>231359</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034449/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-07-20</date>
+            <time>21:15</time>
+            <team1>Марибор (Словения)</team1>
+            <team2>Шериф (Молдавия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034479</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231393</team1id>
+            <team2id>231391</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034479/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-26</date>
+            <time>18:30</time>
+            <team1>АЕК Ларнака (Кипр)</team1>
+            <team2>Мидтьюлланн (Дания)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+            <score1ext>3</score1ext>
+            <score2ext>4</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034465</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231377</team1id>
+            <team2id>231345</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034465/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-26</date>
+            <time>20:00</time>
+            <team1>Виктория Пльзень (Чехия)</team1>
+            <team2>ХИК (Финляндия)</team2>
+            <score1>5</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034473</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231359</team1id>
+            <team2id>231339</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034473/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-26</date>
+            <time>20:00</time>
+            <team1>Шериф (Молдавия)</team1>
+            <team2>Марибор (Словения)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034477</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231325</team1id>
+            <team2id>231327</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034477/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-26</date>
+            <time>20:30</time>
+            <team1>Дюделанж (Люксембург)</team1>
+            <team2>Пюник (Армения)</team2>
+            <score1>1</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034461</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231369</team1id>
+            <team2id>231379</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034461/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-26</date>
+            <time>22:00</time>
+            <team1>Шкупи (Северная Македония)</team1>
+            <team2>Динамо З (Хорватия)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034471</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231355</team1id>
+            <team2id>231349</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034471/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-26</date>
+            <time>22:00</time>
+            <team1>Шэмрок Роверс (Ирландия)</team1>
+            <team2>Лудогорец (Болгария)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034467</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231319</team1id>
+            <team2id>231371</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034467/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-27</date>
+            <time>19:00</time>
+            <team1>Будё-Глимт (Норвегия)</team1>
+            <team2>Линфилд (Северная Ирландия)</team2>
+            <score1>8</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034463</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231381</team1id>
+            <team2id>231321</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034463/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-27</date>
+            <time>20:00</time>
+            <team1>Цюрих (Швейцария)</team1>
+            <team2>Карабах (Азербайджан)</team2>
+            <score1>2</score1>
+            <score2>2</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034469</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231335</team1id>
+            <team2id>231367</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034469/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-27</date>
+            <time>20:00</time>
+            <team1>Мальмё (Швеция)</team1>
+            <team2>Жальгирис (Литва)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034481</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231389</team1id>
+            <team2id>231387</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034481/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-27</date>
+            <time>20:00</time>
+            <team1>Фенербахче (Турция)</team1>
+            <team2>Динамо К (Украина)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034459</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231353</team1id>
+            <team2id>231351</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034459/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-27</date>
+            <time>21:30</time>
+            <team1>Слован Бр (Словакия)</team1>
+            <team2>Ференцварош (Венгрия)</team2>
+            <score1>1</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034475</id>
+            <round>preliminary/27449</round>
+            <tour>2</tour>
+            <month>2022_07</month>
+            <team1id>231383</team1id>
+            <team2id>231385</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034475/</link>
+            <group>2-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-07-27</date>
+            <time>22:00</time>
+            <team1>Олимпиакос (Греция)</team1>
+            <team2>Маккаби Х (Израиль)</team2>
+            <score1>0</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034489</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231359</team1id>
+            <team2id>231377</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034489/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-02</date>
+            <time>20:00</time>
+            <team1>Шериф (Молдавия)</team1>
+            <team2>Виктория Пльзень (Чехия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034487</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231349</team1id>
+            <team2id>231379</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034487/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-02</date>
+            <time>20:45</time>
+            <team1>Лудогорец (Болгария)</team1>
+            <team2>Динамо З (Хорватия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034495</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231397</team1id>
+            <team2id>231407</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034495/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-02</date>
+            <time>21:00</time>
+            <team1>Монако (Монако)</team1>
+            <team2>ПСВ Эйндховен (Нидерланды)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034499</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231409</team1id>
+            <team2id>231405</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034499/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-02</date>
+            <time>21:45</time>
+            <team1>Юнион (Бельгия)</team1>
+            <team2>Рейнджерс (Шотландия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034501</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231403</team1id>
+            <team2id>231391</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034501/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-02</date>
+            <time>22:00</time>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>Мидтьюлланн (Дания)</team2>
+            <score1>4</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034485</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231321</team1id>
+            <team2id>231351</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034485/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-03</date>
+            <time>19:00</time>
+            <team1>Карабах (Азербайджан)</team1>
+            <team2>Ференцварош (Венгрия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034491</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231319</team1id>
+            <team2id>231367</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034491/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-03</date>
+            <time>19:00</time>
+            <team1>Будё-Глимт (Норвегия)</team1>
+            <team2>Жальгирис (Литва)</team2>
+            <score1>5</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034483</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231385</team1id>
+            <team2id>231395</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034483/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-03</date>
+            <time>20:00</time>
+            <team1>Маккаби Х (Израиль)</team1>
+            <team2>Аполлон Л (Кипр)</team2>
+            <score1>4</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034497</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231387</team1id>
+            <team2id>231399</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034497/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-03</date>
+            <time>21:00</time>
+            <team1>Динамо К (Украина)</team1>
+            <team2>Штурм (Австрия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034493</id>
+            <round>preliminary/27451</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231401</team1id>
+            <team2id>231327</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034493/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-03</date>
+            <time>21:45</time>
+            <team1>Црвена Звезда (Сербия)</team1>
+            <team2>Пюник (Армения)</team2>
+            <score1>5</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034511</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231367</team1id>
+            <team2id>231319</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034511/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>19:00</time>
+            <team1>Жальгирис (Литва)</team1>
+            <team2>Будё-Глимт (Норвегия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034503</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231395</team1id>
+            <team2id>231385</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034503/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>20:00</time>
+            <team1>Аполлон Л (Кипр)</team1>
+            <team2>Маккаби Х (Израиль)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034509</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231377</team1id>
+            <team2id>231359</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034509/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>20:00</time>
+            <team1>Виктория Пльзень (Чехия)</team1>
+            <team2>Шериф (Молдавия)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034513</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231327</team1id>
+            <team2id>231401</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034513/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>20:00</time>
+            <team1>Пюник (Армения)</team1>
+            <team2>Црвена Звезда (Сербия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034521</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231391</team1id>
+            <team2id>231403</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034521/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>20:45</time>
+            <team1>Мидтьюлланн (Дания)</team1>
+            <team2>Бенфика (Португалия)</team2>
+            <score1>1</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034505</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231351</team1id>
+            <team2id>231321</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034505/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>21:00</time>
+            <team1>Ференцварош (Венгрия)</team1>
+            <team2>Карабах (Азербайджан)</team2>
+            <score1>1</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034507</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231379</team1id>
+            <team2id>231349</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034507/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>21:00</time>
+            <team1>Динамо З (Хорватия)</team1>
+            <team2>Лудогорец (Болгария)</team2>
+            <score1>4</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034515</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231407</team1id>
+            <team2id>231397</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034515/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>21:30</time>
+            <team1>ПСВ Эйндховен (Нидерланды)</team1>
+            <team2>Монако (Монако)</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034517</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231399</team1id>
+            <team2id>231387</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034517/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>21:30</time>
+            <team1>Штурм (Австрия)</team1>
+            <team2>Динамо К (Украина)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034519</id>
+            <round>preliminary/27451</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231405</team1id>
+            <team2id>231409</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034519/</link>
+            <group>3-й квалификационный раунд</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-09</date>
+            <time>21:45</time>
+            <team1>Рейнджерс (Шотландия)</team1>
+            <team2>Юнион (Бельгия)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034525</id>
+            <round>preliminary/27453</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231319</team1id>
+            <team2id>231379</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034525/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-16</date>
+            <time>22:00</time>
+            <team1>Будё-Глимт (Норвегия)</team1>
+            <team2>Динамо З (Хорватия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034529</id>
+            <round>preliminary/27453</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231413</team1id>
+            <team2id>231411</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034529/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-16</date>
+            <time>22:00</time>
+            <team1>Копенгаген (Дания)</team1>
+            <team2>Трабзонспор (Турция)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034533</id>
+            <round>preliminary/27453</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231405</team1id>
+            <team2id>231407</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034533/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-16</date>
+            <time>22:00</time>
+            <team1>Рейнджерс (Шотландия)</team1>
+            <team2>ПСВ Эйндховен (Нидерланды)</team2>
+            <score1>2</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034523</id>
+            <round>preliminary/27453</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231321</team1id>
+            <team2id>231377</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034523/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-17</date>
+            <time>19:45</time>
+            <team1>Карабах (Азербайджан)</team1>
+            <team2>Виктория Пльзень (Чехия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034527</id>
+            <round>preliminary/27453</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231385</team1id>
+            <team2id>231401</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034527/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-17</date>
+            <time>22:00</time>
+            <team1>Маккаби Х (Израиль)</team1>
+            <team2>Црвена Звезда (Сербия)</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034531</id>
+            <round>preliminary/27453</round>
+            <tour>1</tour>
+            <month>2022_08</month>
+            <team1id>231387</team1id>
+            <team2id>231403</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034531/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>1</tourstr>
+            <date>2022-08-17</date>
+            <time>22:00</time>
+            <team1>Динамо К (Украина)</team1>
+            <team2>Бенфика (Португалия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034535</id>
+            <round>preliminary/27453</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231377</team1id>
+            <team2id>231321</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034535/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-23</date>
+            <time>22:00</time>
+            <team1>Виктория Пльзень (Чехия)</team1>
+            <team2>Карабах (Азербайджан)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034539</id>
+            <round>preliminary/27453</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231401</team1id>
+            <team2id>231385</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034539/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-23</date>
+            <time>22:00</time>
+            <team1>Црвена Звезда (Сербия)</team1>
+            <team2>Маккаби Х (Израиль)</team2>
+            <score1>2</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034543</id>
+            <round>preliminary/27453</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231403</team1id>
+            <team2id>231387</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034543/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-23</date>
+            <time>22:00</time>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>Динамо К (Украина)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034537</id>
+            <round>preliminary/27453</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231379</team1id>
+            <team2id>231319</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034537/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-24</date>
+            <time>22:00</time>
+            <team1>Динамо З (Хорватия)</team1>
+            <team2>Будё-Глимт (Норвегия)</team2>
+            <score1>4</score1>
+            <score2>1</score2>
+            <score1ext>ДВ</score1ext>
+            <score2ext>ДВ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034541</id>
+            <round>preliminary/27453</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231411</team1id>
+            <team2id>231413</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034541/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-24</date>
+            <time>22:00</time>
+            <team1>Трабзонспор (Турция)</team1>
+            <team2>Копенгаген (Дания)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034545</id>
+            <round>preliminary/27453</round>
+            <tour>2</tour>
+            <month>2022_08</month>
+            <team1id>231407</team1id>
+            <team2id>231405</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034545/</link>
+            <group>Раунд плей-офф</group>
+            <tourstr>2</tourstr>
+            <date>2022-08-24</date>
+            <time>22:00</time>
+            <team1>ПСВ Эйндховен (Нидерланды)</team1>
+            <team2>Рейнджерс (Шотландия)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063523</id>
+            <round>group/27463</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231379</team1id>
+            <team2id>231417</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063523/</link>
+            <group>Группа E</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>19:45</time>
+            <team1>Динамо З (Хорватия)</team1>
+            <team2>Челси (Англия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063527</id>
+            <round>group/27467</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231449</team1id>
+            <team2id>231413</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063527/</link>
+            <group>Группа G</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>19:45</time>
+            <team1>Боруссия Д (Германия)</team1>
+            <team2>Копенгаген (Дания)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063525</id>
+            <round>group/27463</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231465</team1id>
+            <team2id>231433</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063525/</link>
+            <group>Группа E</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>22:00</time>
+            <team1>Ред Булл Зальцбург (Австрия)</team1>
+            <team2>Милан (Италия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063529</id>
+            <round>group/27465</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231427</team1id>
+            <team2id>231415</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063529/</link>
+            <group>Группа F</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>22:00</time>
+            <team1>Селтик (Шотландия)</team1>
+            <team2>Реал Мадрид (Испания)</team2>
+            <score1>0</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063531</id>
+            <round>group/27465</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231423</team1id>
+            <team2id>231441</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063531/</link>
+            <group>Группа F</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>22:00</time>
+            <team1>РБ Лейпциг (Германия)</team1>
+            <team2>Шахтёр (Украина)</team2>
+            <score1>1</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063537</id>
+            <round>group/27467</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231419</team1id>
+            <team2id>231443</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063537/</link>
+            <group>Группа G</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>22:00</time>
+            <team1>Севилья (Испания)</team1>
+            <team2>Манчестер Сити (Англия)</team2>
+            <score1>0</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063535</id>
+            <round>group/27469</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231437</team1id>
+            <team2id>231421</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063535/</link>
+            <group>Группа H</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>22:00</time>
+            <team1>ПСЖ (Франция)</team1>
+            <team2>Ювентус (Италия)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063539</id>
+            <round>group/27469</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231403</team1id>
+            <team2id>231385</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063539/</link>
+            <group>Группа H</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-06</date>
+            <time>22:00</time>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>Маккаби Х (Израиль)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063533</id>
+            <round>group/27455</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231439</team1id>
+            <team2id>231405</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063533/</link>
+            <group>Группа A</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>19:45</time>
+            <team1>Аякс (Нидерланды)</team1>
+            <team2>Рейнджерс (Шотландия)</team2>
+            <score1>4</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063547</id>
+            <round>group/27461</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231429</team1id>
+            <team2id>231425</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063547/</link>
+            <group>Группа D</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>19:45</time>
+            <team1>Айнтрахт Ф (Германия)</team1>
+            <team2>Спортинг (Португалия)</team2>
+            <score1>0</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063543</id>
+            <round>group/27455</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231459</team1id>
+            <team2id>231455</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063543/</link>
+            <group>Группа A</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>22:00</time>
+            <team1>Наполи (Италия)</team1>
+            <team2>Ливерпуль (Англия)</team2>
+            <score1>4</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063541</id>
+            <round>group/27457</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231453</team1id>
+            <team2id>231461</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063541/</link>
+            <group>Группа B</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>22:00</time>
+            <team1>Брюгге (Бельгия)</team1>
+            <team2>Байер (Германия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063545</id>
+            <round>group/27457</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231457</team1id>
+            <team2id>231463</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063545/</link>
+            <group>Группа B</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>22:00</time>
+            <team1>Атлетико М (Испания)</team1>
+            <team2>Порту (Португалия)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063553</id>
+            <round>group/27459</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231445</team1id>
+            <team2id>231377</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063553/</link>
+            <group>Группа C</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>22:00</time>
+            <team1>Барселона (Испания)</team1>
+            <team2>Виктория Пльзень (Чехия)</team2>
+            <score1>5</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063555</id>
+            <round>group/27459</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231447</team1id>
+            <team2id>231435</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063555/</link>
+            <group>Группа C</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>22:00</time>
+            <team1>Интер М (Италия)</team1>
+            <team2>Бавария (Германия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063551</id>
+            <round>group/27461</round>
+            <tour>1</tour>
+            <month>2022_09</month>
+            <team1id>231431</team1id>
+            <team2id>231451</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063551/</link>
+            <group>Группа D</group>
+            <tourstr>1</tourstr>
+            <date>2022-09-07</date>
+            <time>22:00</time>
+            <team1>Тоттенхэм Хотспур (Англия)</team1>
+            <team2>Марсель (Франция)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063549</id>
+            <round>group/27459</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231377</team1id>
+            <team2id>231447</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063549/</link>
+            <group>Группа C</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>19:45</time>
+            <team1>Виктория Пльзень (Чехия)</team1>
+            <team2>Интер М (Италия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063561</id>
+            <round>group/27461</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231425</team1id>
+            <team2id>231431</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063561/</link>
+            <group>Группа D</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>19:45</time>
+            <team1>Спортинг (Португалия)</team1>
+            <team2>Тоттенхэм Хотспур (Англия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063567</id>
+            <round>group/27455</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231455</team1id>
+            <team2id>231439</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063567/</link>
+            <group>Группа A</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>22:00</time>
+            <team1>Ливерпуль (Англия)</team1>
+            <team2>Аякс (Нидерланды)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063559</id>
+            <round>group/27457</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231463</team1id>
+            <team2id>231453</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063559/</link>
+            <group>Группа B</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>22:00</time>
+            <team1>Порту (Португалия)</team1>
+            <team2>Брюгге (Бельгия)</team2>
+            <score1>0</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063575</id>
+            <round>group/27457</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231461</team1id>
+            <team2id>231457</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063575/</link>
+            <group>Группа B</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>22:00</time>
+            <team1>Байер (Германия)</team1>
+            <team2>Атлетико М (Испания)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063571</id>
+            <round>group/27459</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231435</team1id>
+            <team2id>231445</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063571/</link>
+            <group>Группа C</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>22:00</time>
+            <team1>Бавария (Германия)</team1>
+            <team2>Барселона (Испания)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063565</id>
+            <round>group/27461</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231451</team1id>
+            <team2id>231429</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063565/</link>
+            <group>Группа D</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-13</date>
+            <time>22:00</time>
+            <team1>Марсель (Франция)</team1>
+            <team2>Айнтрахт Ф (Германия)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063563</id>
+            <round>group/27463</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231433</team1id>
+            <team2id>231379</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063563/</link>
+            <group>Группа E</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>19:45</time>
+            <team1>Милан (Италия)</team1>
+            <team2>Динамо З (Хорватия)</team2>
+            <score1>3</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063583</id>
+            <round>group/27465</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231441</team1id>
+            <team2id>231427</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063583/</link>
+            <group>Группа F</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>19:45</time>
+            <team1>Шахтёр (Украина)</team1>
+            <team2>Селтик (Шотландия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063557</id>
+            <round>group/27455</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231405</team1id>
+            <team2id>231459</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063557/</link>
+            <group>Группа A</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Рейнджерс (Шотландия)</team1>
+            <team2>Наполи (Италия)</team2>
+            <score1>0</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063577</id>
+            <round>group/27463</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231417</team1id>
+            <team2id>231465</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063577/</link>
+            <group>Группа E</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Челси (Англия)</team1>
+            <team2>Ред Булл Зальцбург (Австрия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063569</id>
+            <round>group/27465</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231415</team1id>
+            <team2id>231423</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063569/</link>
+            <group>Группа F</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Реал Мадрид (Испания)</team1>
+            <team2>РБ Лейпциг (Германия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063573</id>
+            <round>group/27467</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231443</team1id>
+            <team2id>231449</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063573/</link>
+            <group>Группа G</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Манчестер Сити (Англия)</team1>
+            <team2>Боруссия Д (Германия)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063595</id>
+            <round>group/27467</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231413</team1id>
+            <team2id>231419</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063595/</link>
+            <group>Группа G</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Копенгаген (Дания)</team1>
+            <team2>Севилья (Испания)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063579</id>
+            <round>group/27469</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231385</team1id>
+            <team2id>231437</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063579/</link>
+            <group>Группа H</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Маккаби Х (Израиль)</team1>
+            <team2>ПСЖ (Франция)</team2>
+            <score1>1</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063585</id>
+            <round>group/27469</round>
+            <tour>2</tour>
+            <month>2022_09</month>
+            <team1id>231421</team1id>
+            <team2id>231403</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063585/</link>
+            <group>Группа H</group>
+            <tourstr>2</tourstr>
+            <date>2022-09-14</date>
+            <time>22:00</time>
+            <team1>Ювентус (Италия)</team1>
+            <team2>Бенфика (Португалия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063581</id>
+            <round>group/27459</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231435</team1id>
+            <team2id>231377</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063581/</link>
+            <group>Группа C</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>19:45</time>
+            <team1>Бавария (Германия)</team1>
+            <team2>Виктория Пльзень (Чехия)</team2>
+            <score1>5</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063601</id>
+            <round>group/27461</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231451</team1id>
+            <team2id>231425</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063601/</link>
+            <group>Группа D</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>19:45</time>
+            <team1>Марсель (Франция)</team1>
+            <team2>Спортинг (Португалия)</team2>
+            <score1>4</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063587</id>
+            <round>group/27455</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231439</team1id>
+            <team2id>231459</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063587/</link>
+            <group>Группа A</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>22:00</time>
+            <team1>Аякс (Нидерланды)</team1>
+            <team2>Наполи (Италия)</team2>
+            <score1>1</score1>
+            <score2>6</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063593</id>
+            <round>group/27455</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231455</team1id>
+            <team2id>231405</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063593/</link>
+            <group>Группа A</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>22:00</time>
+            <team1>Ливерпуль (Англия)</team1>
+            <team2>Рейнджерс (Шотландия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063589</id>
+            <round>group/27457</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231463</team1id>
+            <team2id>231461</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063589/</link>
+            <group>Группа B</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>22:00</time>
+            <team1>Порту (Португалия)</team1>
+            <team2>Байер (Германия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063611</id>
+            <round>group/27457</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231453</team1id>
+            <team2id>231457</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063611/</link>
+            <group>Группа B</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>22:00</time>
+            <team1>Брюгге (Бельгия)</team1>
+            <team2>Атлетико М (Испания)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063599</id>
+            <round>group/27459</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231447</team1id>
+            <team2id>231445</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063599/</link>
+            <group>Группа C</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>22:00</time>
+            <team1>Интер М (Италия)</team1>
+            <team2>Барселона (Испания)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063591</id>
+            <round>group/27461</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231429</team1id>
+            <team2id>231431</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063591/</link>
+            <group>Группа D</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-04</date>
+            <time>22:00</time>
+            <team1>Айнтрахт Ф (Германия)</team1>
+            <team2>Тоттенхэм Хотспур (Англия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063597</id>
+            <round>group/27463</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231465</team1id>
+            <team2id>231379</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063597/</link>
+            <group>Группа E</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>19:45</time>
+            <team1>Ред Булл Зальцбург (Австрия)</team1>
+            <team2>Динамо З (Хорватия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063619</id>
+            <round>group/27465</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231423</team1id>
+            <team2id>231427</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063619/</link>
+            <group>Группа F</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>19:45</time>
+            <team1>РБ Лейпциг (Германия)</team1>
+            <team2>Селтик (Шотландия)</team2>
+            <score1>3</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063607</id>
+            <round>group/27463</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231417</team1id>
+            <team2id>231433</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063607/</link>
+            <group>Группа E</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>22:00</time>
+            <team1>Челси (Англия)</team1>
+            <team2>Милан (Италия)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063603</id>
+            <round>group/27465</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231415</team1id>
+            <team2id>231441</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063603/</link>
+            <group>Группа F</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>22:00</time>
+            <team1>Реал Мадрид (Испания)</team1>
+            <team2>Шахтёр (Украина)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063605</id>
+            <round>group/27467</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231443</team1id>
+            <team2id>231413</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063605/</link>
+            <group>Группа G</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>22:00</time>
+            <team1>Манчестер Сити (Англия)</team1>
+            <team2>Копенгаген (Дания)</team2>
+            <score1>5</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063631</id>
+            <round>group/27467</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231419</team1id>
+            <team2id>231449</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063631/</link>
+            <group>Группа G</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>22:00</time>
+            <team1>Севилья (Испания)</team1>
+            <team2>Боруссия Д (Германия)</team2>
+            <score1>1</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063609</id>
+            <round>group/27469</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231403</team1id>
+            <team2id>231437</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063609/</link>
+            <group>Группа H</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>22:00</time>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>ПСЖ (Франция)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063615</id>
+            <round>group/27469</round>
+            <tour>3</tour>
+            <month>2022_10</month>
+            <team1id>231421</team1id>
+            <team2id>231385</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063615/</link>
+            <group>Группа H</group>
+            <tourstr>3</tourstr>
+            <date>2022-10-05</date>
+            <time>22:00</time>
+            <team1>Ювентус (Италия)</team1>
+            <team2>Маккаби Х (Израиль)</team2>
+            <score1>3</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063613</id>
+            <round>group/27467</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231413</team1id>
+            <team2id>231443</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063613/</link>
+            <group>Группа G</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>19:45</time>
+            <team1>Копенгаген (Дания)</team1>
+            <team2>Манчестер Сити (Англия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063639</id>
+            <round>group/27469</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231385</team1id>
+            <team2id>231421</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063639/</link>
+            <group>Группа H</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>19:45</time>
+            <team1>Маккаби Х (Израиль)</team1>
+            <team2>Ювентус (Италия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063617</id>
+            <round>group/27463</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231433</team1id>
+            <team2id>231417</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063617/</link>
+            <group>Группа E</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>22:00</time>
+            <team1>Милан (Италия)</team1>
+            <team2>Челси (Англия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063623</id>
+            <round>group/27463</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231379</team1id>
+            <team2id>231465</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063623/</link>
+            <group>Группа E</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>22:00</time>
+            <team1>Динамо З (Хорватия)</team1>
+            <team2>Ред Булл Зальцбург (Австрия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063621</id>
+            <round>group/27465</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231441</team1id>
+            <team2id>231415</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063621/</link>
+            <group>Группа F</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>22:00</time>
+            <team1>Шахтёр (Украина)</team1>
+            <team2>Реал Мадрид (Испания)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063647</id>
+            <round>group/27465</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231427</team1id>
+            <team2id>231423</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063647/</link>
+            <group>Группа F</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>22:00</time>
+            <team1>Селтик (Шотландия)</team1>
+            <team2>РБ Лейпциг (Германия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063629</id>
+            <round>group/27467</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231449</team1id>
+            <team2id>231419</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063629/</link>
+            <group>Группа G</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>22:00</time>
+            <team1>Боруссия Д (Германия)</team1>
+            <team2>Севилья (Испания)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063625</id>
+            <round>group/27469</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231437</team1id>
+            <team2id>231403</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063625/</link>
+            <group>Группа H</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-11</date>
+            <time>22:00</time>
+            <team1>ПСЖ (Франция)</team1>
+            <team2>Бенфика (Португалия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063633</id>
+            <round>group/27455</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231459</team1id>
+            <team2id>231439</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063633/</link>
+            <group>Группа A</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>19:45</time>
+            <team1>Наполи (Италия)</team1>
+            <team2>Аякс (Нидерланды)</team2>
+            <score1>4</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063651</id>
+            <round>group/27457</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231457</team1id>
+            <team2id>231453</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063651/</link>
+            <group>Группа B</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>19:45</time>
+            <team1>Атлетико М (Испания)</team1>
+            <team2>Брюгге (Бельгия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063635</id>
+            <round>group/27455</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231405</team1id>
+            <team2id>231455</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063635/</link>
+            <group>Группа A</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>22:00</time>
+            <team1>Рейнджерс (Шотландия)</team1>
+            <team2>Ливерпуль (Англия)</team2>
+            <score1>1</score1>
+            <score2>7</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063627</id>
+            <round>group/27457</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231461</team1id>
+            <team2id>231463</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063627/</link>
+            <group>Группа B</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>22:00</time>
+            <team1>Байер (Германия)</team1>
+            <team2>Порту (Португалия)</team2>
+            <score1>0</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063641</id>
+            <round>group/27459</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231445</team1id>
+            <team2id>231447</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063641/</link>
+            <group>Группа C</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>22:00</time>
+            <team1>Барселона (Испания)</team1>
+            <team2>Интер М (Италия)</team2>
+            <score1>3</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063661</id>
+            <round>group/27459</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231377</team1id>
+            <team2id>231435</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063661/</link>
+            <group>Группа C</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>22:00</time>
+            <team1>Виктория Пльзень (Чехия)</team1>
+            <team2>Бавария (Германия)</team2>
+            <score1>2</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063637</id>
+            <round>group/27461</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231425</team1id>
+            <team2id>231451</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063637/</link>
+            <group>Группа D</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>22:00</time>
+            <team1>Спортинг (Португалия)</team1>
+            <team2>Марсель (Франция)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063643</id>
+            <round>group/27461</round>
+            <tour>4</tour>
+            <month>2022_10</month>
+            <team1id>231431</team1id>
+            <team2id>231429</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063643/</link>
+            <group>Группа D</group>
+            <tourstr>4</tourstr>
+            <date>2022-10-12</date>
+            <time>22:00</time>
+            <team1>Тоттенхэм Хотспур (Англия)</team1>
+            <team2>Айнтрахт Ф (Германия)</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063649</id>
+            <round>group/27463</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231465</team1id>
+            <team2id>231417</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063649/</link>
+            <group>Группа E</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>19:45</time>
+            <team1>Ред Булл Зальцбург (Австрия)</team1>
+            <team2>Челси (Англия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063669</id>
+            <round>group/27467</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231419</team1id>
+            <team2id>231413</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063669/</link>
+            <group>Группа G</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>19:45</time>
+            <team1>Севилья (Испания)</team1>
+            <team2>Копенгаген (Дания)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063655</id>
+            <round>group/27463</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231379</team1id>
+            <team2id>231433</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063655/</link>
+            <group>Группа E</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>22:00</time>
+            <team1>Динамо З (Хорватия)</team1>
+            <team2>Милан (Италия)</team2>
+            <score1>0</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063645</id>
+            <round>group/27465</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231427</team1id>
+            <team2id>231441</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063645/</link>
+            <group>Группа F</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>22:00</time>
+            <team1>Селтик (Шотландия)</team1>
+            <team2>Шахтёр (Украина)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063653</id>
+            <round>group/27465</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231423</team1id>
+            <team2id>231415</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063653/</link>
+            <group>Группа F</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>22:00</time>
+            <team1>РБ Лейпциг (Германия)</team1>
+            <team2>Реал Мадрид (Испания)</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063677</id>
+            <round>group/27467</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231449</team1id>
+            <team2id>231443</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063677/</link>
+            <group>Группа G</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>22:00</time>
+            <team1>Боруссия Д (Германия)</team1>
+            <team2>Манчестер Сити (Англия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063657</id>
+            <round>group/27469</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231403</team1id>
+            <team2id>231421</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063657/</link>
+            <group>Группа H</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>22:00</time>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>Ювентус (Италия)</team2>
+            <score1>4</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063663</id>
+            <round>group/27469</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231437</team1id>
+            <team2id>231385</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063663/</link>
+            <group>Группа H</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-25</date>
+            <time>22:00</time>
+            <team1>ПСЖ (Франция)</team1>
+            <team2>Маккаби Х (Израиль)</team2>
+            <score1>7</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063659</id>
+            <round>group/27457</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231453</team1id>
+            <team2id>231463</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063659/</link>
+            <group>Группа B</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>19:45</time>
+            <team1>Брюгге (Бельгия)</team1>
+            <team2>Порту (Португалия)</team2>
+            <score1>0</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063683</id>
+            <round>group/27459</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231447</team1id>
+            <team2id>231377</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063683/</link>
+            <group>Группа C</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>19:45</time>
+            <team1>Интер М (Италия)</team1>
+            <team2>Виктория Пльзень (Чехия)</team2>
+            <score1>4</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063667</id>
+            <round>group/27455</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231439</team1id>
+            <team2id>231455</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063667/</link>
+            <group>Группа A</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>22:00</time>
+            <team1>Аякс (Нидерланды)</team1>
+            <team2>Ливерпуль (Англия)</team2>
+            <score1>0</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063671</id>
+            <round>group/27455</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231459</team1id>
+            <team2id>231405</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063671/</link>
+            <group>Группа A</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>22:00</time>
+            <team1>Наполи (Италия)</team1>
+            <team2>Рейнджерс (Шотландия)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063665</id>
+            <round>group/27457</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231457</team1id>
+            <team2id>231461</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063665/</link>
+            <group>Группа B</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>22:00</time>
+            <team1>Атлетико М (Испания)</team1>
+            <team2>Байер (Германия)</team2>
+            <score1>2</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063689</id>
+            <round>group/27459</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231445</team1id>
+            <team2id>231435</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063689/</link>
+            <group>Группа C</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>22:00</time>
+            <team1>Барселона (Испания)</team1>
+            <team2>Бавария (Германия)</team2>
+            <score1>0</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063675</id>
+            <round>group/27461</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231429</team1id>
+            <team2id>231451</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063675/</link>
+            <group>Группа D</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>22:00</time>
+            <team1>Айнтрахт Ф (Германия)</team1>
+            <team2>Марсель (Франция)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063685</id>
+            <round>group/27461</round>
+            <tour>5</tour>
+            <month>2022_10</month>
+            <team1id>231431</team1id>
+            <team2id>231425</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063685/</link>
+            <group>Группа D</group>
+            <tourstr>5</tourstr>
+            <date>2022-10-26</date>
+            <time>22:00</time>
+            <team1>Тоттенхэм Хотспур (Англия)</team1>
+            <team2>Спортинг (Португалия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063673</id>
+            <round>group/27457</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231463</team1id>
+            <team2id>231457</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063673/</link>
+            <group>Группа B</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>20:45</time>
+            <team1>Порту (Португалия)</team1>
+            <team2>Атлетико М (Испания)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063695</id>
+            <round>group/27457</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231461</team1id>
+            <team2id>231453</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063695/</link>
+            <group>Группа B</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>20:45</time>
+            <team1>Байер (Германия)</team1>
+            <team2>Брюгге (Бельгия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063681</id>
+            <round>group/27455</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231405</team1id>
+            <team2id>231439</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063681/</link>
+            <group>Группа A</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>23:00</time>
+            <team1>Рейнджерс (Шотландия)</team1>
+            <team2>Аякс (Нидерланды)</team2>
+            <score1>1</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063691</id>
+            <round>group/27455</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231455</team1id>
+            <team2id>231459</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063691/</link>
+            <group>Группа A</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>23:00</time>
+            <team1>Ливерпуль (Англия)</team1>
+            <team2>Наполи (Италия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063679</id>
+            <round>group/27459</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231435</team1id>
+            <team2id>231447</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063679/</link>
+            <group>Группа C</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>23:00</time>
+            <team1>Бавария (Германия)</team1>
+            <team2>Интер М (Италия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063703</id>
+            <round>group/27459</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231377</team1id>
+            <team2id>231445</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063703/</link>
+            <group>Группа C</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>23:00</time>
+            <team1>Виктория Пльзень (Чехия)</team1>
+            <team2>Барселона (Испания)</team2>
+            <score1>2</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063687</id>
+            <round>group/27461</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231451</team1id>
+            <team2id>231431</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063687/</link>
+            <group>Группа D</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>23:00</time>
+            <team1>Марсель (Франция)</team1>
+            <team2>Тоттенхэм Хотспур (Англия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063701</id>
+            <round>group/27461</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231425</team1id>
+            <team2id>231429</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063701/</link>
+            <group>Группа D</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-01</date>
+            <time>23:00</time>
+            <team1>Спортинг (Португалия)</team1>
+            <team2>Айнтрахт Ф (Германия)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063693</id>
+            <round>group/27465</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231415</team1id>
+            <team2id>231427</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063693/</link>
+            <group>Группа F</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>20:45</time>
+            <team1>Реал Мадрид (Испания)</team1>
+            <team2>Селтик (Шотландия)</team2>
+            <score1>5</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063711</id>
+            <round>group/27465</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231441</team1id>
+            <team2id>231423</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063711/</link>
+            <group>Группа F</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>20:45</time>
+            <team1>Шахтёр (Украина)</team1>
+            <team2>РБ Лейпциг (Германия)</team2>
+            <score1>0</score1>
+            <score2>4</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063697</id>
+            <round>group/27463</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231433</team1id>
+            <team2id>231465</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063697/</link>
+            <group>Группа E</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>23:00</time>
+            <team1>Милан (Италия)</team1>
+            <team2>Ред Булл Зальцбург (Австрия)</team2>
+            <score1>4</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063707</id>
+            <round>group/27463</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231417</team1id>
+            <team2id>231379</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063707/</link>
+            <group>Группа E</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>23:00</time>
+            <team1>Челси (Англия)</team1>
+            <team2>Динамо З (Хорватия)</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063699</id>
+            <round>group/27467</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231443</team1id>
+            <team2id>231419</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063699/</link>
+            <group>Группа G</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>23:00</time>
+            <team1>Манчестер Сити (Англия)</team1>
+            <team2>Севилья (Испания)</team2>
+            <score1>3</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063713</id>
+            <round>group/27467</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231413</team1id>
+            <team2id>231449</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063713/</link>
+            <group>Группа G</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>23:00</time>
+            <team1>Копенгаген (Дания)</team1>
+            <team2>Боруссия Д (Германия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063705</id>
+            <round>group/27469</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231385</team1id>
+            <team2id>231403</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063705/</link>
+            <group>Группа H</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>23:00</time>
+            <team1>Маккаби Х (Израиль)</team1>
+            <team2>Бенфика (Португалия)</team2>
+            <score1>1</score1>
+            <score2>6</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1063709</id>
+            <round>group/27469</round>
+            <tour>6</tour>
+            <month>2022_11</month>
+            <team1id>231421</team1id>
+            <team2id>231437</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1063709/</link>
+            <group>Группа H</group>
+            <tourstr>6</tourstr>
+            <date>2022-11-02</date>
+            <time>23:00</time>
+            <team1>Ювентус (Италия)</team1>
+            <team2>ПСЖ (Франция)</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034553</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231433</team1id>
+            <team2id>231431</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034553/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-14</date>
+            <time>23:00</time>
+            <team1>Милан (Италия)</team1>
+            <team2>Тоттенхэм Хотспур (Англия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034557</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231437</team1id>
+            <team2id>231435</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034557/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-14</date>
+            <time>23:00</time>
+            <team1>ПСЖ (Франция)</team1>
+            <team2>Бавария (Германия)</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034549</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231449</team1id>
+            <team2id>231417</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034549/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-15</date>
+            <time>23:00</time>
+            <team1>Боруссия Д (Германия)</team1>
+            <team2>Челси (Англия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034561</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231453</team1id>
+            <team2id>231403</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034561/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-15</date>
+            <time>23:00</time>
+            <team1>Брюгге (Бельгия)</team1>
+            <team2>Бенфика (Португалия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034547</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231429</team1id>
+            <team2id>231459</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034547/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-21</date>
+            <time>23:00</time>
+            <team1>Айнтрахт Ф (Германия)</team1>
+            <team2>Наполи (Италия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034551</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231455</team1id>
+            <team2id>231415</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034551/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-21</date>
+            <time>23:00</time>
+            <team1>Ливерпуль (Англия)</team1>
+            <team2>Реал Мадрид (Испания)</team2>
+            <score1>2</score1>
+            <score2>5</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034555</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231447</team1id>
+            <team2id>231463</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034555/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-22</date>
+            <time>23:00</time>
+            <team1>Интер М (Италия)</team1>
+            <team2>Порту (Португалия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034559</id>
+            <round>playoff/27471</round>
+            <tour>1</tour>
+            <month>2023_02</month>
+            <team1id>231423</team1id>
+            <team2id>231443</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034559/</link>
+            <group>1/8 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-02-22</date>
+            <time>23:00</time>
+            <team1>РБ Лейпциг (Германия)</team1>
+            <team2>Манчестер Сити (Англия)</team2>
+            <score1>1</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034569</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231417</team1id>
+            <team2id>231449</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034569/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-07</date>
+            <time>23:00</time>
+            <team1>Челси (Англия)</team1>
+            <team2>Боруссия Д (Германия)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034577</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231403</team1id>
+            <team2id>231453</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034577/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-07</date>
+            <time>23:00</time>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>Брюгге (Бельгия)</team2>
+            <score1>5</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034565</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231431</team1id>
+            <team2id>231433</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034565/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-08</date>
+            <time>23:00</time>
+            <team1>Тоттенхэм Хотспур (Англия)</team1>
+            <team2>Милан (Италия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034573</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231435</team1id>
+            <team2id>231437</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034573/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-08</date>
+            <time>23:00</time>
+            <team1>Бавария (Германия)</team1>
+            <team2>ПСЖ (Франция)</team2>
+            <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034571</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231463</team1id>
+            <team2id>231447</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034571/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-14</date>
+            <time>23:00</time>
+            <team1>Порту (Португалия)</team1>
+            <team2>Интер М (Италия)</team2>
+            <score1>0</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034575</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231443</team1id>
+            <team2id>231423</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034575/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-14</date>
+            <time>23:00</time>
+            <team1>Манчестер Сити (Англия)</team1>
+            <team2>РБ Лейпциг (Германия)</team2>
+            <score1>7</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034563</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231415</team1id>
+            <team2id>231455</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034563/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-15</date>
+            <time>23:00</time>
+            <team1>Реал Мадрид (Испания)</team1>
+            <team2>Ливерпуль (Англия)</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034567</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231459</team1id>
+            <team2id>231429</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034567/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-15</date>
+            <time>23:00</time>
+            <team1>Наполи (Италия)</team1>
+            <team2>Айнтрахт Ф (Германия)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034583</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231415</team1id>
+            <team2id>231417</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034583/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-11</date>
+            <team1>Реал Мадрид (Испания)</team1>
+            <team2>Челси (Англия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034585</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231403</team1id>
+            <team2id>231447</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034585/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-11</date>
+            <team1>Бенфика (Португалия)</team1>
+            <team2>Интер М (Италия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034579</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231443</team1id>
+            <team2id>231435</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034579/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-12</date>
+            <team1>Манчестер Сити (Англия)</team1>
+            <team2>Бавария (Германия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034581</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231433</team1id>
+            <team2id>231459</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034581/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-12</date>
+            <team1>Милан (Италия)</team1>
+            <team2>Наполи (Италия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034591</id>
+            <round>playoff/27473</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>231417</team1id>
+            <team2id>231415</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034591/</link>
+            <group>1/4 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-18</date>
+            <team1>Челси (Англия)</team1>
+            <team2>Реал Мадрид (Испания)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034593</id>
+            <round>playoff/27473</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>231447</team1id>
+            <team2id>231403</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034593/</link>
+            <group>1/4 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-18</date>
+            <team1>Интер М (Италия)</team1>
+            <team2>Бенфика (Португалия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034587</id>
+            <round>playoff/27473</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>231435</team1id>
+            <team2id>231443</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034587/</link>
+            <group>1/4 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-19</date>
+            <team1>Бавария (Германия)</team1>
+            <team2>Манчестер Сити (Англия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034589</id>
+            <round>playoff/27473</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>231459</team1id>
+            <team2id>231433</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034589/</link>
+            <group>1/4 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-19</date>
+            <team1>Наполи (Италия)</team1>
+            <team2>Милан (Италия)</team2>
+        </match>
+    </matches>
+</tournament>
