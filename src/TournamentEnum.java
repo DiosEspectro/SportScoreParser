@@ -2,5 +2,6 @@ public enum TournamentEnum {
     RPL,
     KHL,
     CHAMPIONSLEAGUE,
-    WORLDCUP
+    WORLDCUP,
+    WHC
 }
