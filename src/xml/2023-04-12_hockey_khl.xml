@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tournament>
+    <tourid>hockey-5255</tourid>
+    <touridshort>5255</touridshort>
+    <tourname>Фонбет КХЛ - плей-офф</tourname>
+    <matches>
+        <match>
+            <type>match</type>
+            <id>hockey-1075903</id>
+            <round>playoff/28883</round>
+            <tour>6</tour>
+            <month>2023_04</month>
+            <team1id>238961</team1id>
+            <team2id>238955</team2id>
+            <played>0</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075903/</link>
+            <group>Финал - Запад</group>
+            <tourstr>6</tourstr>
+            <date>2023-04-12</date>
+            <time>19:00</time>
+            <team1>ЦСКА</team1>
+            <team2>СКА</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+            <score1ext/>
+            <score2ext/>
+            <live>1</live>
+            <liveperiod>Перерыв</liveperiod>
+        </match>
+    </matches>
+</tournament>

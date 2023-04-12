@@ -3695,25 +3695,6 @@
         </match>
         <match>
             <type>match</type>
-            <id>football-1034569</id>
-            <round>playoff/27471</round>
-            <tour>2</tour>
-            <month>2023_03</month>
-            <team1id>231417</team1id>
-            <team2id>231449</team2id>
-            <played>1</played>
-            <link>/football/_ucl/tournament/4993/match/1034569/</link>
-            <group>1/8 финала</group>
-            <tourstr>2</tourstr>
-            <date>2023-03-07</date>
-            <time>23:00</time>
-            <team1>Челси (Англия)</team1>
-            <team2>Боруссия Д (Германия)</team2>
-            <score1>2</score1>
-            <score2>0</score2>
-        </match>
-        <match>
-            <type>match</type>
             <id>football-1034577</id>
             <round>playoff/27471</round>
             <tour>2</tour>
@@ -3733,21 +3714,21 @@
         </match>
         <match>
             <type>match</type>
-            <id>football-1034565</id>
+            <id>football-1034569</id>
             <round>playoff/27471</round>
             <tour>2</tour>
             <month>2023_03</month>
-            <team1id>231431</team1id>
-            <team2id>231433</team2id>
+            <team1id>231417</team1id>
+            <team2id>231449</team2id>
             <played>1</played>
-            <link>/football/_ucl/tournament/4993/match/1034565/</link>
+            <link>/football/_ucl/tournament/4993/match/1034569/</link>
             <group>1/8 финала</group>
             <tourstr>2</tourstr>
-            <date>2023-03-08</date>
-            <time>23:00</time>
-            <team1>Тоттенхэм Хотспур (Англия)</team1>
-            <team2>Милан (Италия)</team2>
-            <score1>0</score1>
+            <date>2023-03-07</date>
+            <time>23:10</time>
+            <team1>Челси (Англия)</team1>
+            <team2>Боруссия Д (Германия)</team2>
+            <score1>2</score1>
             <score2>0</score2>
         </match>
         <match>
@@ -3767,6 +3748,25 @@
             <team1>Бавария (Германия)</team1>
             <team2>ПСЖ (Франция)</team2>
             <score1>2</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034565</id>
+            <round>playoff/27471</round>
+            <tour>2</tour>
+            <month>2023_03</month>
+            <team1id>231431</team1id>
+            <team2id>231433</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034565/</link>
+            <group>1/8 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-03-08</date>
+            <time>23:10</time>
+            <team1>Тоттенхэм Хотспур (Англия)</team1>
+            <team2>Милан (Италия)</team2>
+            <score1>0</score1>
             <score2>0</score2>
         </match>
         <match>
@@ -3847,19 +3847,22 @@
         </match>
         <match>
             <type>match</type>
-            <id>football-1034583</id>
+            <id>football-1034579</id>
             <round>playoff/27473</round>
             <tour>1</tour>
             <month>2023_04</month>
-            <team1id>231415</team1id>
-            <team2id>231417</team2id>
-            <played>0</played>
-            <link>/football/_ucl/tournament/4993/match/1034583/</link>
+            <team1id>231443</team1id>
+            <team2id>231435</team2id>
+            <played>1</played>
+            <link>/football/_ucl/tournament/4993/match/1034579/</link>
             <group>1/4 финала</group>
             <tourstr>1</tourstr>
             <date>2023-04-11</date>
-            <team1>Реал Мадрид (Испания)</team1>
-            <team2>Челси (Англия)</team2>
+            <time>22:00</time>
+            <team1>Манчестер Сити (Англия)</team1>
+            <team2>Бавария (Германия)</team2>
+            <score1>3</score1>
+            <score2>0</score2>
         </match>
         <match>
             <type>match</type>
@@ -3869,29 +3872,16 @@
             <month>2023_04</month>
             <team1id>231403</team1id>
             <team2id>231447</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/football/_ucl/tournament/4993/match/1034585/</link>
             <group>1/4 финала</group>
             <tourstr>1</tourstr>
             <date>2023-04-11</date>
+            <time>22:00</time>
             <team1>Бенфика (Португалия)</team1>
             <team2>Интер М (Италия)</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>football-1034579</id>
-            <round>playoff/27473</round>
-            <tour>1</tour>
-            <month>2023_04</month>
-            <team1id>231443</team1id>
-            <team2id>231435</team2id>
-            <played>0</played>
-            <link>/football/_ucl/tournament/4993/match/1034579/</link>
-            <group>1/4 финала</group>
-            <tourstr>1</tourstr>
-            <date>2023-04-12</date>
-            <team1>Манчестер Сити (Англия)</team1>
-            <team2>Бавария (Германия)</team2>
+            <score1>0</score1>
+            <score2>2</score2>
         </match>
         <match>
             <type>match</type>
@@ -3906,8 +3896,43 @@
             <group>1/4 финала</group>
             <tourstr>1</tourstr>
             <date>2023-04-12</date>
+            <time>22:00</time>
             <team1>Милан (Италия)</team1>
             <team2>Наполи (Италия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034583</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231415</team1id>
+            <team2id>231417</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034583/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-12</date>
+            <time>22:00</time>
+            <team1>Реал Мадрид (Испания)</team1>
+            <team2>Челси (Англия)</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034589</id>
+            <round>playoff/27473</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>231459</team1id>
+            <team2id>231433</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034589/</link>
+            <group>1/4 финала</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-18</date>
+            <time>22:00</time>
+            <team1>Наполи (Италия)</team1>
+            <team2>Милан (Италия)</team2>
         </match>
         <match>
             <type>match</type>
@@ -3922,24 +3947,9 @@
             <group>1/4 финала</group>
             <tourstr>2</tourstr>
             <date>2023-04-18</date>
+            <time>22:00</time>
             <team1>Челси (Англия)</team1>
             <team2>Реал Мадрид (Испания)</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>football-1034593</id>
-            <round>playoff/27473</round>
-            <tour>2</tour>
-            <month>2023_04</month>
-            <team1id>231447</team1id>
-            <team2id>231403</team2id>
-            <played>0</played>
-            <link>/football/_ucl/tournament/4993/match/1034593/</link>
-            <group>1/4 финала</group>
-            <tourstr>2</tourstr>
-            <date>2023-04-18</date>
-            <team1>Интер М (Италия)</team1>
-            <team2>Бенфика (Португалия)</team2>
         </match>
         <match>
             <type>match</type>
@@ -3954,24 +3964,26 @@
             <group>1/4 финала</group>
             <tourstr>2</tourstr>
             <date>2023-04-19</date>
+            <time>22:00</time>
             <team1>Бавария (Германия)</team1>
             <team2>Манчестер Сити (Англия)</team2>
         </match>
         <match>
             <type>match</type>
-            <id>football-1034589</id>
+            <id>football-1034593</id>
             <round>playoff/27473</round>
             <tour>2</tour>
             <month>2023_04</month>
-            <team1id>231459</team1id>
-            <team2id>231433</team2id>
+            <team1id>231447</team1id>
+            <team2id>231403</team2id>
             <played>0</played>
-            <link>/football/_ucl/tournament/4993/match/1034589/</link>
+            <link>/football/_ucl/tournament/4993/match/1034593/</link>
             <group>1/4 финала</group>
             <tourstr>2</tourstr>
             <date>2023-04-19</date>
-            <team1>Наполи (Италия)</team1>
-            <team2>Милан (Италия)</team2>
+            <time>22:00</time>
+            <team1>Интер М (Италия)</team1>
+            <team2>Бенфика (Португалия)</team2>
         </match>
     </matches>
 </tournament>

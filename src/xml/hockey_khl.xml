@@ -1017,7 +1017,7 @@
             <month>2023_03</month>
             <team1id>238961</team1id>
             <team2id>238959</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075839/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>1</tourstr>
@@ -1025,6 +1025,8 @@
             <time>19:30</time>
             <team1>ЦСКА</team1>
             <team2>Локомотив</team2>
+            <score1>2</score1>
+            <score2>0</score2>
         </match>
         <match>
             <type>match</type>
@@ -1034,7 +1036,7 @@
             <month>2023_03</month>
             <team1id>238955</team1id>
             <team2id>238957</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075841/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>2</tourstr>
@@ -1042,6 +1044,8 @@
             <time>17:00</time>
             <team1>СКА</team1>
             <team2>Торпедо</team2>
+            <score1>5</score1>
+            <score2>4</score2>
         </match>
         <match>
             <type>match</type>
@@ -1051,7 +1055,7 @@
             <month>2023_03</month>
             <team1id>238995</team1id>
             <team2id>239173</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075869/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>2</tourstr>
@@ -1059,6 +1063,8 @@
             <time>17:00</time>
             <team1>Ак Барс</team1>
             <team2>Адмирал</team2>
+            <score1>2</score1>
+            <score2>1</score2>
         </match>
         <match>
             <type>match</type>
@@ -1068,7 +1074,7 @@
             <month>2023_03</month>
             <team1id>239023</team1id>
             <team2id>239017</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075871/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>2</tourstr>
@@ -1076,6 +1082,8 @@
             <time>14:00</time>
             <team1>Авангард</team1>
             <team2>Металлург Мг</team2>
+            <score1>4</score1>
+            <score2>3</score2>
         </match>
         <match>
             <type>match</type>
@@ -1085,7 +1093,7 @@
             <month>2023_03</month>
             <team1id>238961</team1id>
             <team2id>238959</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075843/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>2</tourstr>
@@ -1093,6 +1101,8 @@
             <time>17:00</time>
             <team1>ЦСКА</team1>
             <team2>Локомотив</team2>
+            <score1>3</score1>
+            <score2>2</score2>
         </match>
         <match>
             <type>match</type>
@@ -1102,7 +1112,7 @@
             <month>2023_03</month>
             <team1id>239173</team1id>
             <team2id>238995</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075873/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>3</tourstr>
@@ -1110,6 +1120,10 @@
             <time>12:30</time>
             <team1>Адмирал</team1>
             <team2>Ак Барс</team2>
+            <score1>1</score1>
+            <score2>0</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
         </match>
         <match>
             <type>match</type>
@@ -1119,7 +1133,7 @@
             <month>2023_03</month>
             <team1id>238957</team1id>
             <team2id>238955</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075845/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>3</tourstr>
@@ -1127,6 +1141,8 @@
             <time>19:30</time>
             <team1>Торпедо</team1>
             <team2>СКА</team2>
+            <score1>0</score1>
+            <score2>4</score2>
         </match>
         <match>
             <type>match</type>
@@ -1136,7 +1152,7 @@
             <month>2023_03</month>
             <team1id>239017</team1id>
             <team2id>239023</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075875/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>3</tourstr>
@@ -1144,6 +1160,10 @@
             <time>17:00</time>
             <team1>Металлург Мг</team1>
             <team2>Авангард</team2>
+            <score1>2</score1>
+            <score2>3</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
         </match>
         <match>
             <type>match</type>
@@ -1153,7 +1173,7 @@
             <month>2023_03</month>
             <team1id>238959</team1id>
             <team2id>238961</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075847/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>3</tourstr>
@@ -1161,6 +1181,8 @@
             <time>19:30</time>
             <team1>Локомотив</team1>
             <team2>ЦСКА</team2>
+            <score1>6</score1>
+            <score2>2</score2>
         </match>
         <match>
             <type>match</type>
@@ -1170,7 +1192,7 @@
             <month>2023_03</month>
             <team1id>239173</team1id>
             <team2id>238995</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075877/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>4</tourstr>
@@ -1178,6 +1200,10 @@
             <time>12:30</time>
             <team1>Адмирал</team1>
             <team2>Ак Барс</team2>
+            <score1>1</score1>
+            <score2>2</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
         </match>
         <match>
             <type>match</type>
@@ -1187,7 +1213,7 @@
             <month>2023_03</month>
             <team1id>238957</team1id>
             <team2id>238955</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075849/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>4</tourstr>
@@ -1195,6 +1221,8 @@
             <time>19:30</time>
             <team1>Торпедо</team1>
             <team2>СКА</team2>
+            <score1>3</score1>
+            <score2>5</score2>
         </match>
         <match>
             <type>match</type>
@@ -1204,7 +1232,7 @@
             <month>2023_03</month>
             <team1id>239017</team1id>
             <team2id>239023</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075879/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>4</tourstr>
@@ -1212,6 +1240,8 @@
             <time>17:00</time>
             <team1>Металлург Мг</team1>
             <team2>Авангард</team2>
+            <score1>1</score1>
+            <score2>4</score2>
         </match>
         <match>
             <type>match</type>
@@ -1221,7 +1251,7 @@
             <month>2023_03</month>
             <team1id>238959</team1id>
             <team2id>238961</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075851/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>4</tourstr>
@@ -1229,23 +1259,8 @@
             <time>19:30</time>
             <team1>Локомотив</team1>
             <team2>ЦСКА</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075853</id>
-            <round>playoff/28879</round>
-            <tour>5</tour>
-            <month>2023_03</month>
-            <team1id>238955</team1id>
-            <team2id>238957</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075853/</link>
-            <group>1/2 финала - Запад</group>
-            <tourstr>5</tourstr>
-            <date>2023-03-24</date>
-            <time>19:30</time>
-            <team1>СКА</team1>
-            <team2>Торпедо</team2>
+            <score1>1</score1>
+            <score2>3</score2>
         </match>
         <match>
             <type>match</type>
@@ -1255,7 +1270,7 @@
             <month>2023_03</month>
             <team1id>238995</team1id>
             <team2id>239173</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075881/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>5</tourstr>
@@ -1263,23 +1278,8 @@
             <time>19:30</time>
             <team1>Ак Барс</team1>
             <team2>Адмирал</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075883</id>
-            <round>playoff/28881</round>
-            <tour>5</tour>
-            <month>2023_03</month>
-            <team1id>239023</team1id>
-            <team2id>239017</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075883/</link>
-            <group>1/2 финала - Восток</group>
-            <tourstr>5</tourstr>
-            <date>2023-03-25</date>
-            <time>14:00</time>
-            <team1>Авангард</team1>
-            <team2>Металлург Мг</team2>
+            <score1>1</score1>
+            <score2>2</score2>
         </match>
         <match>
             <type>match</type>
@@ -1289,7 +1289,7 @@
             <month>2023_03</month>
             <team1id>238961</team1id>
             <team2id>238959</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075855/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>5</tourstr>
@@ -1297,6 +1297,8 @@
             <time>17:00</time>
             <team1>ЦСКА</team1>
             <team2>Локомотив</team2>
+            <score1>0</score1>
+            <score2>1</score2>
         </match>
         <match>
             <type>match</type>
@@ -1306,7 +1308,7 @@
             <month>2023_03</month>
             <team1id>239173</team1id>
             <team2id>238995</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075885/</link>
             <group>1/2 финала - Восток</group>
             <tourstr>6</tourstr>
@@ -1314,40 +1316,8 @@
             <time>10:00</time>
             <team1>Адмирал</team1>
             <team2>Ак Барс</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075857</id>
-            <round>playoff/28879</round>
-            <tour>6</tour>
-            <month>2023_03</month>
-            <team1id>238957</team1id>
-            <team2id>238955</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075857/</link>
-            <group>1/2 финала - Запад</group>
-            <tourstr>6</tourstr>
-            <date>2023-03-26</date>
-            <time>17:00</time>
-            <team1>Торпедо</team1>
-            <team2>СКА</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075887</id>
-            <round>playoff/28881</round>
-            <tour>6</tour>
-            <month>2023_03</month>
-            <team1id>239017</team1id>
-            <team2id>239023</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075887/</link>
-            <group>1/2 финала - Восток</group>
-            <tourstr>6</tourstr>
-            <date>2023-03-27</date>
-            <time>17:00</time>
-            <team1>Металлург Мг</team1>
-            <team2>Авангард</team2>
+            <score1>1</score1>
+            <score2>3</score2>
         </match>
         <match>
             <type>match</type>
@@ -1357,7 +1327,7 @@
             <month>2023_03</month>
             <team1id>238959</team1id>
             <team2id>238961</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075859/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>6</tourstr>
@@ -1365,57 +1335,8 @@
             <time>19:30</time>
             <team1>Локомотив</team1>
             <team2>ЦСКА</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075861</id>
-            <round>playoff/28879</round>
-            <tour>7</tour>
-            <month>2023_03</month>
-            <team1id>238955</team1id>
-            <team2id>238957</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075861/</link>
-            <group>1/2 финала - Запад</group>
-            <tourstr>7</tourstr>
-            <date>2023-03-28</date>
-            <time>19:30</time>
-            <team1>СКА</team1>
-            <team2>Торпедо</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075889</id>
-            <round>playoff/28881</round>
-            <tour>7</tour>
-            <month>2023_03</month>
-            <team1id>238995</team1id>
-            <team2id>239173</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075889/</link>
-            <group>1/2 финала - Восток</group>
-            <tourstr>7</tourstr>
-            <date>2023-03-28</date>
-            <time>19:30</time>
-            <team1>Ак Барс</team1>
-            <team2>Адмирал</team2>
-        </match>
-        <match>
-            <type>match</type>
-            <id>hockey-1075891</id>
-            <round>playoff/28881</round>
-            <tour>7</tour>
-            <month>2023_03</month>
-            <team1id>239023</team1id>
-            <team2id>239017</team2id>
-            <played>0</played>
-            <link>/hockey/_superleague/tournament/5255/match/1075891/</link>
-            <group>1/2 финала - Восток</group>
-            <tourstr>7</tourstr>
-            <date>2023-03-29</date>
-            <time>16:30</time>
-            <team1>Авангард</team1>
-            <team2>Металлург Мг</team2>
+            <score1>2</score1>
+            <score2>1</score2>
         </match>
         <match>
             <type>match</type>
@@ -1425,7 +1346,7 @@
             <month>2023_03</month>
             <team1id>238961</team1id>
             <team2id>238959</team2id>
-            <played>0</played>
+            <played>1</played>
             <link>/hockey/_superleague/tournament/5255/match/1075863/</link>
             <group>1/2 финала - Запад</group>
             <tourstr>7</tourstr>
@@ -1433,6 +1354,239 @@
             <time>19:30</time>
             <team1>ЦСКА</team1>
             <team2>Локомотив</team2>
+            <score1>5</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075907</id>
+            <round>playoff/28885</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>238995</team1id>
+            <team2id>239023</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075907/</link>
+            <group>Финал - Восток</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-01</date>
+            <time>17:00</time>
+            <team1>Ак Барс</team1>
+            <team2>Авангард</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075893</id>
+            <round>playoff/28883</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>238955</team1id>
+            <team2id>238961</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075893/</link>
+            <group>Финал - Запад</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-02</date>
+            <time>17:00</time>
+            <team1>СКА</team1>
+            <team2>ЦСКА</team2>
+            <score1>2</score1>
+            <score2>3</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075909</id>
+            <round>playoff/28885</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>238995</team1id>
+            <team2id>239023</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075909/</link>
+            <group>Финал - Восток</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-03</date>
+            <time>19:30</time>
+            <team1>Ак Барс</team1>
+            <team2>Авангард</team2>
+            <score1>2</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075895</id>
+            <round>playoff/28883</round>
+            <tour>2</tour>
+            <month>2023_04</month>
+            <team1id>238955</team1id>
+            <team2id>238961</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075895/</link>
+            <group>Финал - Запад</group>
+            <tourstr>2</tourstr>
+            <date>2023-04-04</date>
+            <time>19:30</time>
+            <team1>СКА</team1>
+            <team2>ЦСКА</team2>
+            <score1>2</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075911</id>
+            <round>playoff/28885</round>
+            <tour>3</tour>
+            <month>2023_04</month>
+            <team1id>239023</team1id>
+            <team2id>238995</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075911/</link>
+            <group>Финал - Восток</group>
+            <tourstr>3</tourstr>
+            <date>2023-04-05</date>
+            <time>16:30</time>
+            <team1>Авангард</team1>
+            <team2>Ак Барс</team2>
+            <score1>2</score1>
+            <score2>3</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075897</id>
+            <round>playoff/28883</round>
+            <tour>3</tour>
+            <month>2023_04</month>
+            <team1id>238961</team1id>
+            <team2id>238955</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075897/</link>
+            <group>Финал - Запад</group>
+            <tourstr>3</tourstr>
+            <date>2023-04-06</date>
+            <time>19:30</time>
+            <team1>ЦСКА</team1>
+            <team2>СКА</team2>
+            <score1>4</score1>
+            <score2>0</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075913</id>
+            <round>playoff/28885</round>
+            <tour>4</tour>
+            <month>2023_04</month>
+            <team1id>239023</team1id>
+            <team2id>238995</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075913/</link>
+            <group>Финал - Восток</group>
+            <tourstr>4</tourstr>
+            <date>2023-04-07</date>
+            <time>16:30</time>
+            <team1>Авангард</team1>
+            <team2>Ак Барс</team2>
+            <score1>0</score1>
+            <score2>1</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075899</id>
+            <round>playoff/28883</round>
+            <tour>4</tour>
+            <month>2023_04</month>
+            <team1id>238961</team1id>
+            <team2id>238955</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075899/</link>
+            <group>Финал - Запад</group>
+            <tourstr>4</tourstr>
+            <date>2023-04-08</date>
+            <time>17:00</time>
+            <team1>ЦСКА</team1>
+            <team2>СКА</team2>
+            <score1>1</score1>
+            <score2>3</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075915</id>
+            <round>playoff/28885</round>
+            <tour>5</tour>
+            <month>2023_04</month>
+            <team1id>238995</team1id>
+            <team2id>239023</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075915/</link>
+            <group>Финал - Восток</group>
+            <tourstr>5</tourstr>
+            <date>2023-04-09</date>
+            <time>17:00</time>
+            <team1>Ак Барс</team1>
+            <team2>Авангард</team2>
+            <score1>3</score1>
+            <score2>2</score2>
+            <score1ext>ОТ</score1ext>
+            <score2ext>ОТ</score2ext>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075901</id>
+            <round>playoff/28883</round>
+            <tour>5</tour>
+            <month>2023_04</month>
+            <team1id>238955</team1id>
+            <team2id>238961</team2id>
+            <played>1</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075901/</link>
+            <group>Финал - Запад</group>
+            <tourstr>5</tourstr>
+            <date>2023-04-10</date>
+            <time>19:30</time>
+            <team1>СКА</team1>
+            <team2>ЦСКА</team2>
+            <score1>3</score1>
+            <score2>7</score2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075903</id>
+            <round>playoff/28883</round>
+            <tour>6</tour>
+            <month>2023_04</month>
+            <team1id>238961</team1id>
+            <team2id>238955</team2id>
+            <played>0</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075903/</link>
+            <group>Финал - Запад</group>
+            <tourstr>6</tourstr>
+            <date>2023-04-12</date>
+            <time>19:00</time>
+            <team1>ЦСКА</team1>
+            <team2>СКА</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>hockey-1075905</id>
+            <round>playoff/28883</round>
+            <tour>7</tour>
+            <month>2023_04</month>
+            <team1id>238955</team1id>
+            <team2id>238961</team2id>
+            <played>0</played>
+            <link>/hockey/_superleague/tournament/5255/match/1075905/</link>
+            <group>Финал - Запад</group>
+            <tourstr>7</tourstr>
+            <date>2023-04-14</date>
+            <team1>СКА</team1>
+            <team2>ЦСКА</team2>
         </match>
     </matches>
 </tournament>

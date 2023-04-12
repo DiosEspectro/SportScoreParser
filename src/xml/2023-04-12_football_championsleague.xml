@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tournament>
+    <tourid>football-4993</tourid>
+    <touridshort>4993</touridshort>
+    <tourname>Лига чемпионов</tourname>
+    <matches>
+        <match>
+            <type>match</type>
+            <id>football-1034581</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231433</team1id>
+            <team2id>231459</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034581/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-12</date>
+            <time>22:00</time>
+            <team1>Милан</team1>
+            <team2>Наполи</team2>
+        </match>
+        <match>
+            <type>match</type>
+            <id>football-1034583</id>
+            <round>playoff/27473</round>
+            <tour>1</tour>
+            <month>2023_04</month>
+            <team1id>231415</team1id>
+            <team2id>231417</team2id>
+            <played>0</played>
+            <link>/football/_ucl/tournament/4993/match/1034583/</link>
+            <group>1/4 финала</group>
+            <tourstr>1</tourstr>
+            <date>2023-04-12</date>
+            <time>22:00</time>
+            <team1>Реал Мадрид</team1>
+            <team2>Челси</team2>
+        </match>
+    </matches>
+</tournament>
