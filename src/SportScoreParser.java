@@ -1,3 +1,6 @@
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -11,14 +14,42 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.io.File;
+import java.io.InputStreamReader;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
 
 public class SportScoreParser {
     static String getBasicUrl(){ return "https://www.championat.com/"; }
+    static String getTodayDate(){
+        Date dateNow = new Date();
+        SimpleDateFormat formatForDate = new SimpleDateFormat("yyyy-MM-dd");
+        return formatForDate.format(dateNow);
+    }
+    static URL getTodayUrl(){
+        //Date dateNow = new Date();
+        //SimpleDateFormat formatForDate = new SimpleDateFormat("yyyy-MM-dd");
+        //return getBasicUrl() + "stat/" + formatForDate.format(dateNow) + ".json";
+        URL url = null;
+
+        try {
+            url = new URL(getBasicUrl() + "stat/" + getTodayDate() + ".json");
+        }catch(MalformedURLException e){
+            e.printStackTrace();
+        }
+        return url;
+    }
 
     public static void main(String[] args) {
         for (TournamentEnum tour : TournamentEnum.values()) {
             parseTourAllMatches(tour);
+            parseTourTodayMatches(tour);
         }
+
+        //parseTourTodayMatches(TournamentEnum.CHAMPIONSLEAGUE);
+        //System.out.println(getTodayUrl());
     }
 
     static void parseTourAllMatches(TournamentEnum tour){
@@ -30,7 +61,7 @@ public class SportScoreParser {
             Elements elms = doc.select("table.stat-results__table > tbody > tr"); // Получаем список матчей
 
             int matchesCount = elms.size();
-            String[][] matches = new String[matchesCount][19];
+            String[][] matches = new String[matchesCount][21];
 
             for(int i=0;i<matchesCount;i++){
                 String strtmp = "";
@@ -106,14 +137,19 @@ public class SportScoreParser {
                 }
             }
 
-            saveMatchesToXML(tour, tourInfo, matches);
+            saveMatchesToXML(tour, tourInfo, matches, false);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    static void saveMatchesToXML(TournamentEnum tour, String[] tourInfo, String[][] matches){
-        String fileName = SportScoreParser.getSportNameByTour(tour).toString().toLowerCase() + "_" + tour.toString().toLowerCase() + ".xml";
+    static void saveMatchesToXML(TournamentEnum tour, String[] tourInfo, String[][] matches, boolean onlyToday){
+        String fileName = SportScoreParser.getSportNameByTour(tour).toString().toLowerCase() + "_" + tour.toString().toLowerCase();
+        if(onlyToday) fileName = getTodayDate()+"_"+fileName;
+        fileName +=  ".xml";
+
+            //fileName = SportScoreParser.getSportNameByTour(tour).toString().toLowerCase() + "_" + tour.toString().toLowerCase() + ".xml";
+
         String filePath = "src/xml/" + fileName;
 
         org.w3c.dom.Element elmnt;
@@ -157,7 +193,7 @@ public class SportScoreParser {
                 matchesroot.appendChild(match);
 
                 // Далее добавляем все параметры матча вовнутрь матча
-                for (int j = 0; j < 19; j++) {
+                for (int j = 0; j < 21; j++) {
                     String tagName = switch (j) {
                         case 0 -> "type";
                         case 1 -> "id";
@@ -178,6 +214,8 @@ public class SportScoreParser {
                         case 16 -> "score2";
                         case 17 -> "score1ext";
                         case 18 -> "score2ext";
+                        case 19 -> "live";
+                        case 20 -> "liveperiod";
                         default -> "";
                     };
 
@@ -204,6 +242,118 @@ public class SportScoreParser {
             e.printStackTrace();
         }
     }
+
+
+    static void parseTourTodayMatches(TournamentEnum tour) {
+        String[] tourInfo = getCurTourInfo(tour); // Получаем информацию о турнире
+        SportNameEnum sportName = getSportNameByTour(tour);
+
+        URL url = getTodayUrl();
+
+        try{
+            //Object object = new JSONParser().parse(new FileReader(url));
+            //JSONObject jsonObject = (JSONObject) object;
+            JSONParser parser = new JSONParser();
+            Object obj = parser.parse(new InputStreamReader(url.openStream()));
+            JSONObject jsonObject = (JSONObject) obj;
+            JSONObject matchesObj = (JSONObject) jsonObject.get("matches");
+            if(matchesObj != null) {
+                matchesObj = (JSONObject) matchesObj.get(sportName.toString().toLowerCase(Locale.ROOT));
+
+                if(matchesObj != null) {
+                    matchesObj = (JSONObject) matchesObj.get("tournaments");
+
+                    if(matchesObj != null) {
+                        matchesObj = (JSONObject) matchesObj.get(tourInfo[0]);
+
+                        if(matchesObj != null) {
+                            JSONArray elms = (JSONArray) matchesObj.get("matches");
+
+                            int matchesCount = elms.size();
+
+                            if (matchesCount > 0) {
+                                String[][] matches = new String[matchesCount][21];
+                                JSONObject match_more;
+                                JSONArray match_arr;
+
+                                // Поехали собирать информацию
+                                int i = -1;
+                                boolean isLive;
+
+                                for(Object o:elms) {
+                                    i++;
+                                    isLive = false;
+
+                                    JSONObject match = (JSONObject) o;
+                                    matches[i][0] = "match"; // type
+                                    matches[i][1] = match.get("data-id").toString(); // id
+
+                                    match_more = (JSONObject) match.get("group");
+                                    matches[i][2] = match_more.get("stage").toString() + "/" + match_more.get("id").toString(); // round
+                                    matches[i][9] = match_more.get("name").toString(); // group
+
+                                    matches[i][3] = match.get("tour").toString(); // tour
+                                    matches[i][10] = matches[i][3]; // tourstr
+
+                                    match_arr = (JSONArray) match.get("teams");
+                                    match_more = (JSONObject) match_arr.get(0);
+                                    matches[i][5] = match_more.get("id").toString(); // team1id
+                                    matches[i][13] = match_more.get("name").toString(); // team1
+
+                                    match_more = (JSONObject) match_arr.get(1);
+                                    matches[i][6] = match_more.get("id").toString(); // team2id
+                                    matches[i][14] = match_more.get("name").toString(); // team2
+
+                                    match_more = (JSONObject) match.get("flags");
+                                    matches[i][7] = match_more.get("is_played").toString(); // played
+                                    if(matches[i][7].equals("0")) // если матч не завершён, проверяем - идёт-ли матч прямо сейчас
+                                        isLive = ((long)match_more.get("live") != 0);
+
+                                    matches[i][8] = match.get("link").toString(); // link
+
+                                    matches[i][11] = match.get("date").toString(); // date
+                                    matches[i][12] = match.get("time").toString(); // time
+
+                                    String[] date = matches[i][11].split("-");
+                                    matches[i][4] = date[0] + "_" + date[1]; // month
+
+                                    if(matches[i][7].equals("1") || isLive) { // Если матч завершён, либо матч идёт прямо сейчас
+                                        match_more = (JSONObject) match.get("result");
+                                        match_more = (JSONObject) match_more.get("detailed");
+
+                                        matches[i][15] = match_more.get("goal1").toString(); // score1
+                                        matches[i][16] = match_more.get("goal2").toString(); // score2
+                                        matches[i][17] = match_more.get("extra").toString(); // score1ext
+                                        matches[i][18] = matches[i][17]; // score2ext
+
+                                        if (isLive) {
+                                            matches[i][19] = "1"; // live
+                                            match_more = (JSONObject) match.get("status");
+                                            matches[i][20] = match_more.get("name").toString(); // liveperiod
+                                        }
+                                    }
+                                }
+
+                                saveMatchesToXML(tour, tourInfo, matches, true);
+                            }
+                        }
+                    }
+                }
+            }
+            //JSONArray jsonArray = (JSONArray) jsonObject.get("matches");
+/*
+            for(Object o:jsonArray){
+                JSONObject book = (JSONObject) o;
+                System.out.println("\nТекущий элемент: book");
+                System.out.println("Название книги: " + book.get("title"));
+                System.out.println("Автор: " + book.get("author"));
+                System.out.println("Год издания: " + book.get("year"));
+            }*/
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+
     static String[] getCurTourInfo(TournamentEnum tour){
         // Возвращает массив строк, 0 - это длинный ID текущего турнира для Live-парсинга; 1 - это короткий ID для ссылок; 2 - Имя турнира
         String[] ret = new String[3];
